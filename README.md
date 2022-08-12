@@ -15,4 +15,6 @@ Jason describes the game thus:
 
 Per Jason's guidance, these sources are published under a CC BY-SA 4.0 license.
 
-I haven't modified any of the source files yet, only added a few text files (this README, the license, and a note documenting my communication with Jason).
+I haven't modified any of the source files, only added a few text files (this README, the license, and a note documenting my communication with Jason).
+
+My plan is to *not* make changes to this repo, and instead focus development on my port of Jason's code to modern Linux: https://github.com/ttkciar/cthulhu-linux
