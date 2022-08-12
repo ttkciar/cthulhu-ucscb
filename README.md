@@ -1,7 +1,7 @@
 UCSCB Cthulhu Game
 ==================
 
-This is the source code for Jason Abbot's "cthulhu" text/curses game, as hosted on UCSCB in the 1990s.
+This is the source code for Jason Abbott's "cthulhu" text/curses game, as hosted on UCSCB in the 1990s.
 
 Jason describes the game thus:
 
